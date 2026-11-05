@@ -1,0 +1,524 @@
+{
+  "format": "kayu.public-card-catalog",
+  "version": 1,
+  "packs": [
+    {
+      "file": "jujutsu-techniques.kayu",
+      "title": "咒术回战 · 术式全开",
+      "cards": [
+        {
+          "id": "agent-e35da3d6-cd24-4d13-baac-2087c72afdd2",
+          "title": "五条悟 · 虚式「茈」",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-4153cfa3-f509-4b67-a948-7d8be88a5de4",
+          "title": "虎杖悠仁 · 黑闪",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-c9b6c261-6aff-4f45-a564-610c14b91f64",
+          "title": "伏黑惠 · 嵌合暗翳庭",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-4b7971f3-2202-486f-ab21-38e60661c5cf",
+          "title": "钉崎野蔷薇 · 共鸣",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-b3aab0ff-2618-45f9-a2e4-ed65d8b6a521",
+          "title": "两面宿傩 · 伏魔御厨子",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-4149684d-2d08-48fc-92ae-712c31c726be",
+          "title": "乙骨忧太 · 纯爱",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-657a6231-a2ed-4a54-bd45-12d68ac70f9f",
+          "title": "九十九由基 · 星之怒",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-c994e7c9-3e2a-4c73-b24b-64e2492a0025",
+          "title": "伏黑甚尔 · 天与咒缚",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-a4896820-0a1c-4362-9f35-867e8089c5bc",
+          "title": "夏油杰 · 百鬼夜行",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-c3735ac6-ffd2-48d6-9d6a-8e6f7d547e0d",
+          "title": "七海建人 · 十划咒法",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-ac630e81-441d-4cb3-bbed-425e65f4f4d9",
+          "title": "禅院真希 · 破界之刃",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-24edede8-04a3-46d3-9f0b-831d38dd5e7f",
+          "title": "胀相 · 穿血",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-00281339-5daa-4e26-bf30-71783801849a",
+          "title": "东堂葵 · 不义游戏",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-80f460a2-fd95-4f4f-8dec-9fb1f3a6c31a",
+          "title": "真人 · 自闭圆顿裹",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "foreground",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "jjk-one-thought-lenticular-20261104-no-title-v2",
+          "title": "一念神魔",
+          "rarity": "自制",
+          "kind": "lenticular",
+          "roles": [
+            "back",
+            "imageA",
+            "imageB"
+          ]
+        }
+      ],
+      "cardCount": 15,
+      "bytes": 117234883,
+      "sha256": "da7803c8404e095df037089fedf2143ba8427db467e9525c60ae3e12dd42b914",
+      "downloadURL": "https://github.com/WangQvQ/kayu/releases/download/card-packs-v1.0.0/jujutsu-techniques.kayu",
+      "preview": "jujutsu-techniques.jpg"
+    },
+    {
+      "file": "jujutsu-archives.kayu",
+      "title": "咒术回战 · 咒力档案",
+      "cards": [
+        {
+          "id": "agent-cb564dc1-ed4d-471a-84dc-6cfcbb6edf3b",
+          "title": "五条悟",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-9263a9a7-6546-41b6-9144-67488a99f4ae",
+          "title": "虎杖悠仁",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-23ed09ec-fa93-4399-addc-b8588437b6f3",
+          "title": "伏黑惠",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-af2a693f-9a30-4efa-a14b-591356ba33d8",
+          "title": "钉崎野蔷薇",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-030a5d94-b616-47bf-b02c-c9e0b53a5842",
+          "title": "两面宿傩",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        },
+        {
+          "id": "agent-06960738-81cc-440b-b50e-d941e3140fcd",
+          "title": "乙骨忧太",
+          "rarity": "自制",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject",
+            "text"
+          ]
+        }
+      ],
+      "cardCount": 6,
+      "bytes": 29129132,
+      "sha256": "c8955051c28437d36ccad1044c0ddaa931f8702bcd1683d80b4c578cabd5d7d1",
+      "downloadURL": "https://github.com/WangQvQ/kayu/releases/download/card-packs-v1.0.0/jujutsu-archives.kayu",
+      "preview": "jujutsu-archives.jpg"
+    },
+    {
+      "file": "demon-slayer-main.kayu",
+      "title": "鬼灭之刃 · 主角团",
+      "cards": [
+        {
+          "id": "demonslayer-tanjiro-v1",
+          "title": "竈门炭治郎",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-nezuko-v1",
+          "title": "竈门祢豆子",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-zenitsu-v1",
+          "title": "我妻善逸",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-inosuke-v1",
+          "title": "嘴平伊之助",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        }
+      ],
+      "cardCount": 4,
+      "bytes": 66670256,
+      "sha256": "5252de11e38b27dfcdc96edb40b3b102bd6ad643e2c885f45f1dcba7f77c36bf",
+      "downloadURL": "https://github.com/WangQvQ/kayu/releases/download/card-packs-v1.0.0/demon-slayer-main.kayu",
+      "preview": "demon-slayer-main.jpg"
+    },
+    {
+      "file": "demon-slayer-hashira.kayu",
+      "title": "鬼灭之刃 · 九柱",
+      "cards": [
+        {
+          "id": "demonslayer-kagaya-bookend-spatial-20261104-v2",
+          "title": "产屋敷耀哉",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-rengoku-v1",
+          "title": "炼狱杏寿郎",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-giyu-v1",
+          "title": "富冈义勇",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-shinobu-v1",
+          "title": "蝴蝶忍",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-muichiro-v1",
+          "title": "时透无一郎",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-obanai-v1",
+          "title": "伊黑小芭内",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-mitsuri-v1",
+          "title": "甘露寺蜜璃",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-sanemi-v1",
+          "title": "不死川实弥",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-tengen-v1",
+          "title": "宇髄天元",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-gyomei-v1",
+          "title": "悲鸣屿行冥",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "background",
+            "effects",
+            "foreground",
+            "subject"
+          ]
+        },
+        {
+          "id": "demonslayer-hashira-group-bookend-spatial-20261104-v2",
+          "title": "九柱集结",
+          "rarity": "UR",
+          "kind": "holographic",
+          "roles": [
+            "artwork",
+            "back",
+            "background",
+            "subject"
+          ]
+        }
+      ],
+      "cardCount": 11,
+      "bytes": 171905992,
+      "sha256": "13fd8917b9638227f76db85738cbed86ae6be640e4c98a9fab1722cd28159529",
+      "downloadURL": "https://github.com/WangQvQ/kayu/releases/download/card-packs-v1.0.0/demon-slayer-hashira.kayu",
+      "preview": "demon-slayer-hashira.jpg"
+    }
+  ]
+}

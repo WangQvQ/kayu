@@ -8,7 +8,12 @@ collecting, and sharing digital keepsake cards. Its App Store release is being p
 [Privacy](https://wangqvq.github.io/kayu/privacy.html)
 
 This public repository contains the English website and the **KAYU Card Creator**
-agent Skill. The iOS application source and personal collections are not included.
+agent Skill. The iOS application source, private collection backups and credentials are not included.
+
+## Card pack downloads
+
+[Browse the card packs](cards/README.md) for Jujutsu Kaisen and Demon Slayer.
+Download `.kayu` files from the [card pack release](https://github.com/WangQvQ/kayu/releases/tag/card-packs-v1.0.0), import into Packs, and unwrap them in KAYU.
 
 ## Install the creator Skill
 
