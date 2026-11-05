@@ -1,5 +1,7 @@
 # KAYU
 
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
+
 A little home for the things you love. KAYU (卡屿) is an iPhone app for making,
 collecting, and sharing digital keepsake cards. Its App Store release is being prepared.
 

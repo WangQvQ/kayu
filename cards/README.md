@@ -1,5 +1,7 @@
 # Importable fan card packs
 
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
+
 Download a `.kayu` file below and save it to the iPhone Files app. In KAYU, choose **Import Local File**. The pack appears under **Packs**, unopened. Open it when ready, then collect its cards into an album. A GitHub webpage URL is not an importable pack; download the actual file first.
 
 Existing illustrations, registered transparent layers and optical settings are preserved. The Hashira pack uses the corrected poses and includes Kagaya and the group portrait. Techniques Unleashed uses the hand-corrected Nobara and Todo cards and includes the two-image tilt-switching special card. The earlier six-card Jujutsu collection is offered separately.
