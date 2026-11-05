@@ -1,0 +1,4 @@
+interface:
+  display_name: "KAYU Card Creator"
+  short_description: "Create layered keepsake cards and importable KAYU packs"
+  default_prompt: "Use $kayu-card-creator to make my illustration into a layered card pack for KAYU."
